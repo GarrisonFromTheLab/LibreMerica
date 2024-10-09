@@ -1,2 +1,3 @@
 # LibreMerica
-LibreMerica, a FLOSS alternative to the closed source nightmare that is the United States.
+LibreMerica, it's whatever you want it to be...probably. If not, feel free to secede with a fork.
+
